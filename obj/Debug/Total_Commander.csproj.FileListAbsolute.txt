@@ -1,0 +1,10 @@
+C:\Users\camil\source\repos\Total_Commander\bin\Debug\Total_Commander.exe.config
+C:\Users\camil\source\repos\Total_Commander\bin\Debug\Total_Commander.exe
+C:\Users\camil\source\repos\Total_Commander\bin\Debug\Total_Commander.pdb
+C:\Users\camil\source\repos\Total_Commander\obj\Debug\Total_Commander.csprojAssemblyReference.cache
+C:\Users\camil\source\repos\Total_Commander\obj\Debug\Total_Commander.Form1.resources
+C:\Users\camil\source\repos\Total_Commander\obj\Debug\Total_Commander.Properties.Resources.resources
+C:\Users\camil\source\repos\Total_Commander\obj\Debug\Total_Commander.csproj.GenerateResource.cache
+C:\Users\camil\source\repos\Total_Commander\obj\Debug\Total_Commander.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\Total_Commander\obj\Debug\Total_Commander.exe
+C:\Users\camil\source\repos\Total_Commander\obj\Debug\Total_Commander.pdb
